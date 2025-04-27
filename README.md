@@ -8,7 +8,6 @@ A sleek and simple Flutter-based Wallet application.
 
 
 - 🎨 Beautiful UI with custom icons
-- 📶 Real-time device status
 - 📋 Modular code with reusable widgets
 
 ---
