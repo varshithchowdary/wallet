@@ -1,4 +1,4 @@
-# 🔌 SmartHome App
+# 🔌 Wallet App
 
 A sleek and simple Flutter-based Wallet application.
 
