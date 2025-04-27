@@ -30,5 +30,4 @@ A sleek and simple Flutter-based Wallet application.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/varshithcgowdary/wallet.git
-   cd smarthome
    ```
